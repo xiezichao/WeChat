@@ -10,3 +10,4 @@ target/
 
 *.class
 test-output
+.DS_Store
